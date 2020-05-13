@@ -1,7 +1,6 @@
 {
   "name": "defects-js",
   "private": true,
-  "workspaces": ["defects/*"],
   "scripts": {
     "benchmark": "fault-benchmarker defects/*",
     "benchmark-quixbugs": "fault-benchmarker defects/quixbugs-*",
