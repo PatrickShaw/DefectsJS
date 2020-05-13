@@ -76,7 +76,7 @@
     "enzyme-example-karma-webpack": "0.1.4",
     "enzyme-example-mocha": "0.1.0",
     "enzyme-example-react-native": "0.1.0",
-    "eslint": "3.10.2",
+    "eslint": "4.18.2",
     "eslint-config-airbnb": "13.0.0",
     "eslint-plugin-import": "2.2.0",
     "eslint-plugin-jsx-a11y": "2.2.3",
