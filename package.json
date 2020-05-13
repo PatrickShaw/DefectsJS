@@ -1,0 +1,14 @@
+{
+  "name": "defects-js",
+  "private": true,
+  "workspaces": ["defects/*"],
+  "scripts": {
+    "benchmark": "fault-benchmarker defects/*",
+    "benchmark-quixbugs": "fault-benchmarker defects/quixbugs-*",
+    "benchmark-node-convict": "fault-benchmarker defects/node-convict-*",
+    "benchmark-enzyme": "fault-benchmarker defects/enzyme-*",
+    "benchmark-chai": "fault-benchmarker defects/chai-*",
+    "benchmark-yargs": "fault-benchmarker defects/yargs-*",
+    "benchmark-sinon": "fault-benchmarker defects/sinon-*"
+  }
+}

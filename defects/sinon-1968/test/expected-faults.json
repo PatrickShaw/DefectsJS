@@ -1,0 +1,20 @@
+{
+  "./lib/sinon/stub.js": [
+    { 
+      "location": {
+        "start": {
+          "line": 40,
+          "column": 4
+        }
+      }
+    },
+    { 
+      "location": {
+        "start": {
+          "line": 42,
+          "column": 4
+        }
+      }
+    }
+  ]
+}
